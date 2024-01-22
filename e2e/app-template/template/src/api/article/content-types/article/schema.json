@@ -7,7 +7,9 @@
     "displayName": "Article",
     "description": ""
   },
-  "options": {},
+  "options": {
+    "draftAndPublish": true
+  },
   "pluginOptions": {},
   "attributes": {
     "title": {
